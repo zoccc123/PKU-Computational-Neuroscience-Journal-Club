@@ -12,7 +12,7 @@ This journal club aims to provide a forum for discussing neurons, brains, and be
 
 2019/04/25, 接近年假+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
 
-2019/05/03, 腾天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
+2019/05/03, 滕天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
 ## 3. 时间 & 地点
 
