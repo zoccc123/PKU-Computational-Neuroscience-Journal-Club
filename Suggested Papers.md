@@ -1,3 +1,6 @@
+Hénaff, O. J., Goris, R. L. T., & Simoncelli, E. (2019). Perceptual straightening of natural videos. Nature Neuroscience. https://doi.org/10.1038/s41593-019-0377-4 (suggested by Tianyuan Teng)
+
+
 Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249. (suggested by Li, Ang)
 
 Recanatesi, S., Farrell, M., Lajoie, G., Deneve, S., Rigotti, M., & Shea-Brown, E. (2018). Signatures and mechanisms of low-dimensional neural predictive manifolds. BioRxiv, 471987. https://doi.org/10.1101/471987 (suggested by Gengshuo Tian)
@@ -52,7 +55,7 @@ Iigaya K, Adaptive learning and decision-making under uncertainty by metaplastic
 Orbán, G, Berkes, P, Fiser, J & Lengyel, M, 2016, Neural Variability and Sampling-Based Probabilistic Representations in the Visual Cortex, vol. 92, no. 2, pp. 530-543. (Memming; Sampling hypothesis / Bayesian Brain)
 http://www.cell.com/neuron/fulltext/S0896-6273(16)30639-0
 
-Jérémie Barral & Alex D Reyes, Synaptic scaling rule preserves excitatory–inhibitory balance and salient neuronal network dynamics, Nat Neurosci 2016, doi:10.1038/nn.4415 (GLC; experimental demonstration in cultured networks of the 1/sqrt(K) synaptic scaling predicted by the theory of balanced networks, along with predicted results on CV, FF, and firing rate distributions)
+Jérémie Barral & Alex D Reyes, Synaptic scaling rule preserves excitatory–inhibitory balance and salient neuronal network dynamics, Nat Neurosci 2016, doi:10.1038/nn.4415 (GLC; experimental demonstration in cultured networks of the 1/sqrt(K) synaptic scaling predicted by the theory of balanced networks, along with predicted results on CV, FF, and firing rate distributions)
 Adam N. Sanborn, Nick Chater. Bayesian Brains without Probabilities. Cell 2016 (Memming; Opinion piece on sampling hypothesis)
 http://dx.doi.org/10.1016/j.tics.2016.10.003
 
